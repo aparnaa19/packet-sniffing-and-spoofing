@@ -1,4 +1,4 @@
-# Packet Sniffing & Spoofing Lab (SEED Labs)
+# Packet Sniffing & Spoofing Lab 
 
 This project demonstrates how to sniff and spoof network packets using Scapy and raw socket programming. It includes ICMP, TCP, and Telnet-based sniffing, as well as crafting spoofed packets and injecting them into the network.
 
@@ -29,18 +29,4 @@ This project demonstrates how to sniff and spoof network packets using Scapy and
 - Promiscuous mode is needed to see traffic not directly addressed to host
 - Multiple replies observed when spoofing a real destination (e.g., 8.8.8.8)
 
-## 🖼️ Screenshots
-Optionally include terminal logs or Wireshark captures of spoofed and sniffed traffic.
 
-## 📁 Files
-- `packet-sniffing-report.pdf` – Full writeup with code, tests, and attack validation
-
-## 📄 Author
-**Aparnaa Mahalaxmi Arulljothi**  
-Student ID: A20560995
-
----
-
-## 🔗 References
-- [SEED Labs - Packet Sniffing and Spoofing](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/)
-- [Scapy Docs](https://scapy.readthedocs.io/en/latest/)
